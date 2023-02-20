@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Daana",
+      "number": "996777665536",
+      "image": "https://pixlr.com/images/index/remove-bg.webp",
+      "lastName": "Sag",
+      "id": 1
+    },
+    {
+      "name": "Aika",
+      "number": "2832938",
+      "image": "https://pixlr.com/images/index/remove-bg.webp",
+      "lastName": "s",
+      "id": 2
+    }
+  ]
+}
